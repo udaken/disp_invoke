@@ -1,6 +1,6 @@
 # disp_invoke
 
-A Header only ulitity like DispInvoke, which is type-safe.
+A Header only ulitity for mordern C++(17 or later) like DispInvoke, which is type-safe.
 
 ## Usage
 
